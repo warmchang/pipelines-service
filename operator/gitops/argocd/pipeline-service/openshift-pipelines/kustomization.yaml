@@ -15,3 +15,4 @@ resources:
   - chains-observability-service.yaml
   - chains-public-key-viewer.yaml
   - namespace.yaml
+  - osp-nightly-catalog-source.yaml
